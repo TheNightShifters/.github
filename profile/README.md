@@ -1,3 +1,9 @@
+<span style="color:green;font-weight:700;font-size:20px">
+    markdown color font styles
+</span>
+
+
+
 ![Who are the night shifter agency leaders](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/nightshifters_intro.png)
 
 ## 💼 Technical Skills
@@ -19,27 +25,40 @@
 
 
 
-💬 If you have any question/feedback, please do not hesitate to reach out to us!
 ![About Jazmine Garcia](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Jasmine_profile.png)
-<a href="https://www.linkedin.com/in/jasmineigarcia/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
-<a href="https://github.com/Jasmine-Garcia" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
+### 🤝 Connect with me:
+<div>
+ <div>
+ <img src="https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Jasmine_profile.png" alt="drawing" width="500"/>
+ </div>
+ <div>
+ <a href="https://www.linkedin.com/in/jasmineigarcia/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a> <a href="https://github.com/Jasmine-Garcia" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
+ </div>
+</div>
 
 
 ![About Cameron Berry](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Cam_profile.png)
+### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/cameron-berry-seattle/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
 <a href="https://github.com/CamBerry1" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
 
 
 ![About Lilian Mburu](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Lilian_profile.png)
+### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/lilianmburu/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
 <a href="https://github.com/OddGarden" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
 
 
 ![About Osaremeh Abel](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Oz_profile.png)
+### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/osaremehabel/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
 <a href="https://github.com/ashard79" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 
 ![About Sam Allan](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Sam_profile.png)
+### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/samuel-allan-26652a262/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
 <a href="https://github.com/theSam1998" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
+
+
+💬 If you have any question/feedback, please do not hesitate to reach out to us!
