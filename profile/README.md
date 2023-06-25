@@ -1,10 +1,9 @@
-<span style="color:green;font-weight:700;font-size:20px">
-    markdown color font styles
-</span>
 
 
 
 ![Who are the night shifter agency leaders](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/nightshifters_intro.png)
+\
+&nbsp;
 
 ## 💼 Technical Skills
 
@@ -15,50 +14,33 @@
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)  
+\
+&nbsp;
 
- ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
-
-
-![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-
-
-
-
+<a href="https://www.linkedin.com/in/jasmineigarcia/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jasmine Garcia | LinkedIn" width="100px"/></a> <a href="https://github.com/Jasmine-Garcia" ><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Jasmine Garcia | Github" width="90px"/></a><hr/>
 ![About Jazmine Garcia](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Jasmine_profile.png)
-### 🤝 Connect with me:
-<div>
- <div>
- <img src="https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Jasmine_profile.png" alt="drawing" width="500"/>
- </div>
- <div>
- <a href="https://www.linkedin.com/in/jasmineigarcia/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a> <a href="https://github.com/Jasmine-Garcia" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
- </div>
-</div>
+\
+&nbsp;
 
-
+ <a href="https://www.linkedin.com/in/cameron-berry-seattle/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Cameron Berry | LinkedIn" width="100px"/></a> <a href="https://github.com/CamBerry1" ><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Cameron Berry | Github" width="90px"/></a><hr/>
 ![About Cameron Berry](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Cam_profile.png)
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/cameron-berry-seattle/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
-<a href="https://github.com/CamBerry1" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
+\
+&nbsp;
 
-
+ <a href="https://www.linkedin.com/in/lilianmburu/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lilian Mburu | LinkedIn" width="100px"/></a> <a href="https://github.com/OddGarden" ><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Lilian Mburu | Github" width="90px"/></a><hr/>
 ![About Lilian Mburu](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Lilian_profile.png)
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/lilianmburu/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
-<a href="https://github.com/OddGarden" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
+\
+&nbsp;
 
-
+ <a href="https://www.linkedin.com/in/osaremehabel/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Osaremeh Abel | LinkedIn" width="100px"/></a> <a href="https://github.com/ashard79" ><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Osaremeh Abel | Github" width="90px"/></a><hr/>
 ![About Osaremeh Abel](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Oz_profile.png)
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/osaremehabel/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
-<a href="https://github.com/ashard79" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+\
+&nbsp;
 
-
+ <a href="https://www.linkedin.com/in/samuel-allan-26652a262/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sam Allan | LinkedIn" width="100px"/></a> <a href="https://github.com/theSam1998" ><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Sam Allan | Github" width="90px"/></a><hr/>
 ![About Sam Allan](https://github.com/TheNightShifters/AcqITTransformation/blob/main/Misc/Sam_profile.png)
-### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/samuel-allan-26652a262/" target="_blank"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
-<a href="https://github.com/theSam1998" target="_blank"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Yu Shi | LinkedIn" width="100px"/></a>
-
+\
+&nbsp;
 
 💬 If you have any question/feedback, please do not hesitate to reach out to us!
